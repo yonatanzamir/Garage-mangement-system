@@ -1,7 +1,4 @@
 Your Brand new Garage Managment system
-    To get started with this project :
-        Clone this repository to your PC
-        Open the .sln file
     In this Garage you can :
         Add new vehicles based on their engine type (Fuel,Electric) , such as Trucks , Cars , Motorcycles
         Fuel vehicles
